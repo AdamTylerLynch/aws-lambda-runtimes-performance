@@ -58,3 +58,9 @@ platform/logs/
 
 
 config-files-list.txt
+.DS_Store
+java-graalvm-lambda/output/
+.aws-sam/
+.github-do-not-use/
+samconfig.toml
+template-old.yaml
